@@ -4,7 +4,7 @@ const { default_prefix } = require("./../../config.json");
 module.exports = {
   name: "help",
   description: "Shows all commands of the bot",
-  category: "uptime",
+  category: "uptime",////////////////hello Curso///////////////////
   botPermission: [],
   authorPermission: [],
   ownerOnly: false,
